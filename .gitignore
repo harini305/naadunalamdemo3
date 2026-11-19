@@ -9,3 +9,7 @@ original-assets/
 docs/source-discovery/raw/html/
 docs/source-discovery/raw/site-css.css
 tools/browser/node_modules/
+
+# Audit / discovery documentation stays local (raw crawl data) — not part of the public repo
+docs/
+.next-dev.log
