@@ -1,0 +1,37 @@
+[
+ {
+  "id": 16,
+  "slug": "naadunalam",
+  "name": "Naadu Nalam",
+  "productCount": 54,
+  "categories": [
+   "aval-flakes",
+   "other-rice",
+   "paruppu-pulses",
+   "rice-grains",
+   "siruthaniyam"
+  ],
+  "storePhone": "8123456456",
+  "registered": "2026-09-22",
+  "sourceUrl": "https://naadunalam.fastfilings.in/store/naadunalam/"
+ },
+ {
+  "id": 15,
+  "slug": "thaayanbu",
+  "name": "Thaayanbu",
+  "productCount": 28,
+  "categories": [
+   "health-mixes",
+   "herbal-wellness",
+   "honey",
+   "masala-podi",
+   "natural-sweeteners",
+   "oil-vinegers",
+   "paruppu-pulses",
+   "personal-care"
+  ],
+  "storePhone": "9176482135",
+  "registered": "2026-09-22",
+  "sourceUrl": "https://naadunalam.fastfilings.in/store/thaayanbu/"
+ }
+]

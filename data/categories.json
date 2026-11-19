@@ -1,0 +1,206 @@
+[
+ {
+  "id": 111,
+  "slug": "aval-flakes",
+  "name": "Aval / Flakes (அவல் வகைகள்)",
+  "nameEn": "Aval / Flakes",
+  "nameTa": "அவல் வகைகள்",
+  "description": "Traditional rice flakes — aval pressed from heirloom paddy varieties.",
+  "count": 17,
+  "image": {
+   "src": "/images/catalog/2026-09-aval-vagaigal.webp",
+   "w": 1024,
+   "h": 1024,
+   "original": "https://naadunalam.fastfilings.in/wp-content/uploads/2026/09/Aval-Vagaigal.webp"
+  },
+  "imageAlt": "Aval vagaigal — traditional red rice flakes in a clay bowl",
+  "sourceUrl": "https://naadunalam.fastfilings.in/product-category/aval-flakes/"
+ },
+ {
+  "id": 58,
+  "slug": "oil-vinegers",
+  "name": "Ghee & Oil (நெய் & எண்ணெய் வகைகள்)",
+  "nameEn": "Ghee & Oil",
+  "nameTa": "நெய் & எண்ணெய் வகைகள்",
+  "description": "",
+  "count": 5,
+  "image": {
+   "src": "/images/catalog/2026-08-nallennai.webp",
+   "w": 1024,
+   "h": 1024,
+   "original": "https://naadunalam.fastfilings.in/wp-content/uploads/2026/08/Nallennai.webp"
+  },
+  "imageAlt": "Nallennai — cold-pressed sesame oil",
+  "sourceUrl": "https://naadunalam.fastfilings.in/product-category/oil-vinegers/"
+ },
+ {
+  "id": 97,
+  "slug": "health-mixes",
+  "name": "Health Mixes (ஆரோக்கிய மாவுகள்)",
+  "nameEn": "Health Mixes",
+  "nameTa": "ஆரோக்கிய மாவுகள்",
+  "description": "Traditional kanji and dosai maavu, oottachathu maavu, protein and wellness drink mixes.",
+  "count": 9,
+  "image": {
+   "src": "/images/catalog/2026-08-kali-kanji-maavu.webp",
+   "w": 1024,
+   "h": 1024,
+   "original": "https://naadunalam.fastfilings.in/wp-content/uploads/2026/08/Kali-Kanji-Maavu.webp"
+  },
+  "imageAlt": "Kali / Kanji Maavu — traditional porridge flour mix",
+  "sourceUrl": "https://naadunalam.fastfilings.in/product-category/health-mixes/"
+ },
+ {
+  "id": 100,
+  "slug": "herbal-wellness",
+  "name": "Herbal & Wellness (மூலிகை & நலவாழ்வு பொருட்கள்)",
+  "nameEn": "Herbal & Wellness",
+  "nameTa": "மூலிகை & நலவாழ்வு பொருட்கள்",
+  "description": "Traditional herbal and bath-care preparations — Seekkai Podi, Kuliyal Podi and Panchakara Kudineer.",
+  "count": 2,
+  "image": {
+   "src": "/images/catalog/2026-08-seekkai-podi.webp",
+   "w": 1024,
+   "h": 1024,
+   "original": "https://naadunalam.fastfilings.in/wp-content/uploads/2026/08/Seekkai-Podi.webp"
+  },
+  "imageAlt": "",
+  "sourceUrl": "https://naadunalam.fastfilings.in/product-category/herbal-wellness/"
+ },
+ {
+  "id": 67,
+  "slug": "honey",
+  "name": "Honey (தேன்)",
+  "nameEn": "Honey",
+  "nameTa": "தேன்",
+  "description": "",
+  "count": 1,
+  "image": {
+   "src": "/images/catalog/2026-08-thean.webp",
+   "w": 1024,
+   "h": 1024,
+   "original": "https://naadunalam.fastfilings.in/wp-content/uploads/2026/08/Thean.webp"
+  },
+  "imageAlt": "Then (traditional honey)",
+  "sourceUrl": "https://naadunalam.fastfilings.in/product-category/honey/"
+ },
+ {
+  "id": 96,
+  "slug": "paruppu-pulses",
+  "name": "Lentils and Pulses (பருப்பு வகைகள்)",
+  "nameEn": "Lentils and Pulses",
+  "nameTa": "பருப்பு வகைகள்",
+  "description": "Traditional dals and pulses — Kadalai Paruppu, Thuvaram Paruppu, Ulundhu, Payaru and Kondakadalai.",
+  "count": 12,
+  "image": {
+   "src": "/images/catalog/2026-08-kadalai-paruppu.webp",
+   "w": 1024,
+   "h": 1024,
+   "original": "https://naadunalam.fastfilings.in/wp-content/uploads/2026/08/Kadalai-Paruppu.webp"
+  },
+  "imageAlt": "Kadalai Paruppu — split Bengal gram (chana dal)",
+  "sourceUrl": "https://naadunalam.fastfilings.in/product-category/paruppu-pulses/"
+ },
+ {
+  "id": 99,
+  "slug": "masala-podi",
+  "name": "Masala & Powders (மசாலா & பொடி வகைகள்)",
+  "nameEn": "Masala & Powders",
+  "nameTa": "மசாலா & பொடி வகைகள்",
+  "description": "Traditional ground masalas and podis — Sambar, Kuzhambu, Rasam and Milagai Podi.",
+  "count": 5,
+  "image": {
+   "src": "/images/catalog/2026-08-sambar-podi.webp",
+   "w": 1024,
+   "h": 1024,
+   "original": "https://naadunalam.fastfilings.in/wp-content/uploads/2026/08/Sambar-Podi.webp"
+  },
+  "imageAlt": "Sambar Podi — traditional Tamil sambar powder",
+  "sourceUrl": "https://naadunalam.fastfilings.in/product-category/masala-podi/"
+ },
+ {
+  "id": 95,
+  "slug": "siruthaniyam",
+  "name": "Millets (சிறுதானியங்கள்)",
+  "nameEn": "Millets",
+  "nameTa": "சிறுதானியங்கள்",
+  "description": "Traditional small millets — Samai, Thinai, Kuthiraivali, Varagu, Kezhvaragu, Kambu and Cholam.",
+  "count": 7,
+  "image": {
+   "src": "/images/catalog/2026-08-samai-arisi.webp",
+   "w": 1024,
+   "h": 1024,
+   "original": "https://naadunalam.fastfilings.in/wp-content/uploads/2026/08/Samai-Arisi.webp"
+  },
+  "imageAlt": "Samai Arisi (little millet) grains",
+  "sourceUrl": "https://naadunalam.fastfilings.in/product-category/siruthaniyam/"
+ },
+ {
+  "id": 98,
+  "slug": "natural-sweeteners",
+  "name": "Natural Sweeteners (இயற்கை இனிப்புகள்)",
+  "nameEn": "Natural Sweeteners",
+  "nameTa": "இயற்கை இனிப்புகள்",
+  "description": "Naattu Sarkkarai, Karuppatti, Urundai Vellam, Panangkarkandu and Then.",
+  "count": 5,
+  "image": {
+   "src": "/images/catalog/2026-08-karuppatti.webp",
+   "w": 1024,
+   "h": 1024,
+   "original": "https://naadunalam.fastfilings.in/wp-content/uploads/2026/08/Karuppatti.webp"
+  },
+  "imageAlt": "Karuppatti — traditional palm jaggery",
+  "sourceUrl": "https://naadunalam.fastfilings.in/product-category/natural-sweeteners/"
+ },
+ {
+  "id": 110,
+  "slug": "other-rice",
+  "name": "Other Rice (மற்ற அரிசி வகைகள்)",
+  "nameEn": "Other Rice",
+  "nameTa": "மற்ற அரிசி வகைகள்",
+  "description": "Everyday table rice varieties — Ponni, Idli Rice and Barley.",
+  "count": 3,
+  "image": {
+   "src": "/images/catalog/2026-07-16-product-basmati-rice.webp",
+   "w": 1024,
+   "h": 1024,
+   "original": "https://naadunalam.fastfilings.in/wp-content/uploads/2026/07/16-product-basmati-rice.webp"
+  },
+  "imageAlt": "Long-grain basmati rice",
+  "sourceUrl": "https://naadunalam.fastfilings.in/product-category/other-rice/"
+ },
+ {
+  "id": 109,
+  "slug": "personal-care",
+  "name": "Personal Care (உடல் பராமரிப்பு)",
+  "nameEn": "Personal Care",
+  "nameTa": "உடல் பராமரிப்பு",
+  "description": "Traditional bath and hair care preparations used in place of soap and shampoo — Kuliyal Podi and Seekkai Podi.",
+  "count": 2,
+  "image": {
+   "src": "/images/catalog/2026-09-nn-personal-care-category.webp",
+   "w": 1024,
+   "h": 1024,
+   "original": "https://naadunalam.fastfilings.in/wp-content/uploads/2026/09/nn-personal-care-category.webp"
+  },
+  "imageAlt": "Traditional herbal bath and hair-care powders in stoneware bowls with shikakai pods, soapnuts, rose petals and amla",
+  "sourceUrl": "https://naadunalam.fastfilings.in/product-category/personal-care/"
+ },
+ {
+  "id": 66,
+  "slug": "rice-grains",
+  "name": "Traditional Rice (பாரம்பரிய அரிசி வகைகள்)",
+  "nameEn": "Traditional Rice",
+  "nameTa": "பாரம்பரிய அரிசி வகைகள்",
+  "description": "",
+  "count": 17,
+  "image": {
+   "src": "/images/catalog/2026-08-parambariya-arisi-vagaigal.webp",
+   "w": 1024,
+   "h": 1024,
+   "original": "https://naadunalam.fastfilings.in/wp-content/uploads/2026/08/Parambariya-Arisi-Vagaigal.webp"
+  },
+  "imageAlt": "Parambariya arisi vagaigal — traditional rice varieties",
+  "sourceUrl": "https://naadunalam.fastfilings.in/product-category/rice-grains/"
+ }
+]

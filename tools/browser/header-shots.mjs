@@ -1,0 +1,31 @@
+import { chromium } from 'playwright-core';
+const out = process.argv[2];
+const b = await chromium.launch({ executablePath: 'C:/Program Files/Google/Chrome/Application/chrome.exe' });
+const shot = async (name, w, h, path, fn) => {
+  const p = await b.newPage({ viewport: { width: w, height: h }, isMobile: w < 600, hasTouch: w < 600 });
+  await p.goto('http://localhost:3217' + path, { waitUntil: 'networkidle' });
+  await p.waitForTimeout(900);
+  if (fn) await fn(p);
+  await p.waitForTimeout(900);
+  const info = await p.evaluate(() => {
+    const hdr = document.querySelector('.site-header').getBoundingClientRect();
+    const kids = [...document.querySelector('.hdr').children].filter((e) => getComputedStyle(e).display !== 'none').map((e) => { const r = e.getBoundingClientRect(); return `${e.className.split(' ')[0]}@${Math.round(r.left)},${Math.round(r.top)}`; });
+    const seal = document.querySelector('.hdr__seal').getBoundingClientRect();
+    return { headerH: Math.round(hdr.height), visible: kids.join(' | '), sealBottom: Math.round(seal.bottom) };
+  });
+  console.log(name, JSON.stringify(info));
+  await p.screenshot({ path: `${out}/${name}.jpg`, type: 'jpeg', quality: 70, clip: { x: 0, y: 0, width: w, height: Math.min(h, 260) } });
+  await p.close();
+};
+await shot('h-home-1440', 1440, 900, '/');
+await shot('h-shop-1440', 1440, 900, '/shop');
+await shot('h-shop-1440-scrolled', 1440, 900, '/shop', (p) => p.evaluate(() => window.scrollTo(0, 600)));
+await shot('h-shop-1100', 1100, 800, '/shop');
+await shot('h-shop-1024', 1024, 768, '/shop');
+await shot('h-shop-390', 390, 844, '/shop');
+const p = await b.newPage({ viewport: { width: 390, height: 844 }, isMobile: true, hasTouch: true });
+await p.goto('http://localhost:3217/shop', { waitUntil: 'networkidle' });
+await p.click('.hdr__burger');
+await p.waitForTimeout(1200);
+await p.screenshot({ path: `${out}/h-menu-390.jpg`, type: 'jpeg', quality: 70 });
+await b.close();

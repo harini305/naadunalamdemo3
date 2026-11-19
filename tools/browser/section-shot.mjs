@@ -1,0 +1,15 @@
+import { chromium } from 'playwright-core';
+const [out, sel, size] = process.argv.slice(2);
+const [w, h] = (size || '1440x900').split('x').map(Number);
+const browser = await chromium.launch({ executablePath: 'C:/Program Files/Google/Chrome/Application/chrome.exe', headless: true });
+const page = await browser.newPage({ viewport: { width: w, height: h }, isMobile: w < 600 });
+const errs = []; page.on('pageerror', (e) => errs.push(String(e)));
+await page.goto('http://localhost:3217/', { waitUntil: 'networkidle' });
+await page.waitForTimeout(800);
+await page.evaluate((s) => { const el = document.querySelector(s); window.scrollTo(0, el.getBoundingClientRect().top + scrollY - 84); }, sel);
+await page.waitForTimeout(2200);
+const box = await page.evaluate((s) => { const r = document.querySelector(s).getBoundingClientRect(); return { h: Math.round(r.height), top: Math.round(r.top) }; }, sel);
+const intro = await page.evaluate(() => { const i = document.querySelector('.rice__intro'); return i ? { introScrollH: i.scrollHeight, introH: i.clientHeight } : null; });
+console.log(size, 'section', JSON.stringify(box), 'intro', JSON.stringify(intro), errs.join(' '));
+await page.screenshot({ path: out, type: 'jpeg', quality: 72 });
+await browser.close();

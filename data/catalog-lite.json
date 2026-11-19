@@ -1,0 +1,1578 @@
+[
+ {
+  "id": 441,
+  "slug": "organic-turmeric-powder",
+  "nameEn": "Turmeric Powder",
+  "nameTa": "மஞ்சள் தூள்",
+  "price": 40.0,
+  "priceRange": {
+   "min": 40.0,
+   "max": 70.0
+  },
+  "packs": [
+   "100 g",
+   "250 g"
+  ],
+  "variations": [
+   {
+    "id": 442,
+    "pack": "100 g",
+    "price": 40.0
+   },
+   {
+    "id": 443,
+    "pack": "250 g",
+    "price": 70.0
+   }
+  ],
+  "categories": [
+   "masala-podi"
+  ],
+  "seller": "thaayanbu",
+  "image": "/images/catalog/2026-07-11-product-turmeric.webp",
+  "maxQty": 9999,
+  "inStock": true
+ },
+ {
+  "id": 451,
+  "slug": "cold-pressed-coconut-oil",
+  "nameEn": "Coconut Oil",
+  "nameTa": "தேங்காய் எண்ணெய்",
+  "price": 280.0,
+  "priceRange": null,
+  "packs": [
+   "500 ml"
+  ],
+  "variations": [],
+  "categories": [
+   "oil-vinegers"
+  ],
+  "seller": "thaayanbu",
+  "image": "/images/catalog/2026-08-thengai-ennai.webp",
+  "maxQty": 92,
+  "inStock": true
+ },
+ {
+  "id": 482,
+  "slug": "toor-dal",
+  "nameEn": "Pigeon Pea Dal",
+  "nameTa": "துவரம் பருப்பு",
+  "price": 139.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "paruppu-pulses"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-08-thuvaram-paruppu.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 483,
+  "slug": "moong-dal",
+  "nameEn": "Moong Dal",
+  "nameTa": "பாசிப்பருப்பு",
+  "price": 119.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "paruppu-pulses"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-08-paasi-paruppu.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 484,
+  "slug": "cold-pressed-sesame-oil",
+  "nameEn": "Gingelly Oil",
+  "nameTa": "நல்லெண்ணெய்",
+  "price": 299.0,
+  "priceRange": null,
+  "packs": [
+   "500 ml"
+  ],
+  "variations": [],
+  "categories": [
+   "oil-vinegers"
+  ],
+  "seller": "thaayanbu",
+  "image": "/images/catalog/2026-08-nallennai.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 485,
+  "slug": "groundnut-oil",
+  "nameEn": "Groundnut Oil",
+  "nameTa": "கடலை எண்ணெய்",
+  "price": 275.0,
+  "priceRange": null,
+  "packs": [
+   "500 ml"
+  ],
+  "variations": [],
+  "categories": [
+   "oil-vinegers"
+  ],
+  "seller": "thaayanbu",
+  "image": "/images/catalog/2026-08-kadalai-ennai.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 488,
+  "slug": "tulsi-infused-honey",
+  "nameEn": "Honey",
+  "nameTa": "தேன்",
+  "price": 379.0,
+  "priceRange": null,
+  "packs": [
+   "250 g"
+  ],
+  "variations": [],
+  "categories": [
+   "honey",
+   "natural-sweeteners"
+  ],
+  "seller": "thaayanbu",
+  "image": "/images/catalog/2026-07-tulsi-infused-honey-photo.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 928,
+  "slug": "kichadi-samba-rice",
+  "nameEn": "Kichili Samba Rice",
+  "nameTa": "கிச்சிலி சம்பா அரிசி",
+  "price": 165.0,
+  "priceRange": null,
+  "packs": [
+   "1 kg"
+  ],
+  "variations": [],
+  "categories": [
+   "rice-grains"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-08-kichili-samba-arisi.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 929,
+  "slug": "barnyard-millet-kuthiraivali",
+  "nameEn": "Barnyard Millet",
+  "nameTa": "குதிரைவாலி",
+  "price": 135.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "siruthaniyam"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-08-kuthiraivali-arisi.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 930,
+  "slug": "foxtail-millet-thinai",
+  "nameEn": "Foxtail Millet",
+  "nameTa": "திணை",
+  "price": 128.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "siruthaniyam"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-08-thinai-arisi.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 931,
+  "slug": "kodo-millet-varagu",
+  "nameEn": "Kodo Millet",
+  "nameTa": "வரகு",
+  "price": 132.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "siruthaniyam"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-08-varagu-arisi.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 932,
+  "slug": "urad-dal",
+  "nameEn": "White Urad Dal",
+  "nameTa": "வெள்ளை உளுந்து",
+  "price": 158.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "paruppu-pulses"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-08-vellai-ulundhu.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 933,
+  "slug": "horse-gram-kollu",
+  "nameEn": "Horse Gram",
+  "nameTa": "கொள்ளு",
+  "price": 112.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "paruppu-pulses"
+  ],
+  "seller": "thaayanbu",
+  "image": "/images/catalog/2026-08-kollu.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 945,
+  "slug": "palm-jaggery-karupatti",
+  "nameEn": "Palm Jaggery",
+  "nameTa": "கருப்பட்டி",
+  "price": 178.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "natural-sweeteners"
+  ],
+  "seller": "thaayanbu",
+  "image": "/images/catalog/2026-08-karuppatti.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 946,
+  "slug": "country-sugar-nattu-sakkarai",
+  "nameEn": "Country Jaggery",
+  "nameTa": "நாட்டுச் சர்க்கரை",
+  "price": 98.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "natural-sweeteners"
+  ],
+  "seller": "thaayanbu",
+  "image": "/images/catalog/2026-08-nn-946-country-sugar.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1018,
+  "slug": "samai-arisi",
+  "nameEn": "Little Millet",
+  "nameTa": "சாமை",
+  "price": 125.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "siruthaniyam"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-08-samai-arisi.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1024,
+  "slug": "kezhvaragu",
+  "nameEn": "Finger Millet",
+  "nameTa": "கேழ்வரகு",
+  "price": 98.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "siruthaniyam"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-08-keppai-kezhvaragu.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1025,
+  "slug": "kambu",
+  "nameEn": "Pearl Millet",
+  "nameTa": "கம்பு",
+  "price": 95.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "siruthaniyam"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-08-kambu.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1026,
+  "slug": "cholam",
+  "nameEn": "Sorghum",
+  "nameTa": "சோளம்",
+  "price": 92.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "siruthaniyam"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-08-cholam.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1027,
+  "slug": "moongil-arisi",
+  "nameEn": "Bamboo Rice",
+  "nameTa": "மூங்கில் அரிசி",
+  "price": 385.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "rice-grains"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-08-moongil-arisi.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1037,
+  "slug": "karudan-samba-arisi",
+  "nameEn": "Karudan Samba Rice",
+  "nameTa": "கருடன் சம்பா அரிசி",
+  "price": 175.0,
+  "priceRange": null,
+  "packs": [
+   "1 kg"
+  ],
+  "variations": [],
+  "categories": [
+   "rice-grains"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-08-karudan-samba-arisi.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1038,
+  "slug": "kudavaazhai-arisi",
+  "nameEn": "Kudavaazhai Rice",
+  "nameTa": "குடவாழை அரிசி",
+  "price": 168.0,
+  "priceRange": null,
+  "packs": [
+   "1 kg"
+  ],
+  "variations": [],
+  "categories": [
+   "rice-grains"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-08-kudavaazhai-arisi.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1039,
+  "slug": "ponni-arisi",
+  "nameEn": "Ponni Rice",
+  "nameTa": "பொன்னி அரிசி",
+  "price": 145.0,
+  "priceRange": null,
+  "packs": [
+   "1 kg"
+  ],
+  "variations": [],
+  "categories": [
+   "other-rice"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-08-ponni-arisi.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1040,
+  "slug": "idli-arisi",
+  "nameEn": "Idli Rice",
+  "nameTa": "இட்லி அரிசி",
+  "price": 135.0,
+  "priceRange": null,
+  "packs": [
+   "1 kg"
+  ],
+  "variations": [],
+  "categories": [
+   "other-rice"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-08-idli-arisi.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1041,
+  "slug": "kadalai-paruppu",
+  "nameEn": "Bengal Gram Dal",
+  "nameTa": "கடலைப் பருப்பு",
+  "price": 128.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "paruppu-pulses"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-08-kadalai-paruppu.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1042,
+  "slug": "siru-paruppu",
+  "nameEn": "Split Green Gram",
+  "nameTa": "சிறுபருப்பு",
+  "price": 142.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "paruppu-pulses"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-08-siru-paruppu.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1043,
+  "slug": "pachai-payaru",
+  "nameEn": "Green Gram",
+  "nameTa": "பச்சைப் பயறு",
+  "price": 115.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "paruppu-pulses"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-08-pachai-payaru.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1044,
+  "slug": "karuppu-ulundhu",
+  "nameEn": "Black Urad Dal",
+  "nameTa": "கருப்பு உளுந்து",
+  "price": 168.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "paruppu-pulses"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-08-karuppu-ulundhu.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1053,
+  "slug": "nilakadalai",
+  "nameEn": "Groundnuts",
+  "nameTa": "நிலக்கடலை",
+  "price": 135.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "paruppu-pulses"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-08-nilakadalai.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1054,
+  "slug": "karuppu-kondakadalai",
+  "nameEn": "Black Chickpeas",
+  "nameTa": "கருப்பு கொண்டைக்கடலை",
+  "price": 122.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "paruppu-pulses"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-08-karuppu-kondakadalai.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1055,
+  "slug": "vellai-kondakadalai",
+  "nameEn": "White Chickpeas",
+  "nameTa": "வெள்ளை கொண்டைக்கடலை",
+  "price": 118.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "paruppu-pulses"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-08-vellai-kondakadalai.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1056,
+  "slug": "kali-kanji-maavu",
+  "nameEn": "Kali & Porridge Flour",
+  "nameTa": "களி, கஞ்சி மாவு",
+  "price": 165.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "health-mixes"
+  ],
+  "seller": "thaayanbu",
+  "image": "/images/catalog/2026-08-kali-kanji-maavu.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1058,
+  "slug": "kanjiyum-dosai-maavum",
+  "nameEn": "Roasted Kali & Porridge Dosa Flour",
+  "nameTa": "வறுத்த களி, கஞ்சி தோசை மாவு",
+  "price": 158.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "health-mixes"
+  ],
+  "seller": "thaayanbu",
+  "image": "/images/catalog/2026-08-kanjiyum-maavum.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1059,
+  "slug": "sarkkarai-noi-kkaana-kanji-dosai-maavu",
+  "nameEn": "Diabetic-Friendly Porridge & Dosa Flour",
+  "nameTa": "நீரிழிவு நோயாளிகளுக்கான கஞ்சி, தோசை மாவு",
+  "price": 198.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "health-mixes"
+  ],
+  "seller": "thaayanbu",
+  "image": "/images/catalog/2026-08-sarkkarai-noi-kkaana-kanji.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1060,
+  "slug": "udal-edai-kuraikkum-kanji-maavu",
+  "nameEn": "Weight Loss Porridge Flour",
+  "nameTa": "உடல் எடை குறைப்புக்கான கஞ்சி மாவு",
+  "price": 205.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "health-mixes"
+  ],
+  "seller": "thaayanbu",
+  "image": "/images/catalog/2026-08-udal-edai-kuraikkum-kanji-maavu.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1069,
+  "slug": "pengalukkaana-oottachathu-maavu",
+  "nameEn": "Women’s Uterine Health Flour",
+  "nameTa": "பெண்களின் கருப்பை நல மாவு",
+  "price": 225.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "health-mixes"
+  ],
+  "seller": "thaayanbu",
+  "image": "/images/catalog/2026-08-pengalukkaana-oottachathu-maavu.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1070,
+  "slug": "oottachathu-paanam",
+  "nameEn": "All-Age Nutrition Malt Mix",
+  "nameTa": "அனைத்து வயதினருக்கான ஊட்டச்சத்து மாவுக் கலவை",
+  "price": 245.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "health-mixes"
+  ],
+  "seller": "thaayanbu",
+  "image": "/images/catalog/2026-08-oottachathu-paanam.webp",
+  "maxQty": 99,
+  "inStock": true
+ },
+ {
+  "id": 1071,
+  "slug": "protein-drink-mix",
+  "nameEn": "Protein Mix",
+  "nameTa": "புரதச்சத்துக் கலவை",
+  "price": 285.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "health-mixes"
+  ],
+  "seller": "thaayanbu",
+  "image": "/images/catalog/2026-08-protein-drinks.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1072,
+  "slug": "udal-suththi-kudal-suththi-maavu",
+  "nameEn": "Gut & Body Cleansing Tea",
+  "nameTa": "குடல் மற்றும் உடல் தூய்மைக்கான தேநீர்",
+  "price": 195.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "health-mixes"
+  ],
+  "seller": "thaayanbu",
+  "image": "/images/catalog/2026-08-udal-suththi-kudal-suththi-maavu.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1073,
+  "slug": "urundai-vellam",
+  "nameEn": "Round Jaggery",
+  "nameTa": "உருண்டை வெல்லம்",
+  "price": 115.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "natural-sweeteners"
+  ],
+  "seller": "thaayanbu",
+  "image": "/images/catalog/2026-08-urundai-vellam.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1074,
+  "slug": "panangkarkandu",
+  "nameEn": "Palm Sugar Crystals",
+  "nameTa": "பனங்கற்கண்டு",
+  "price": 165.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "natural-sweeteners"
+  ],
+  "seller": "thaayanbu",
+  "image": "/images/catalog/2026-08-panangkarkandu.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1075,
+  "slug": "sambar-podi",
+  "nameEn": "Sambar Powder",
+  "nameTa": "சாம்பார் தூள்",
+  "price": 135.0,
+  "priceRange": null,
+  "packs": [
+   "250 g"
+  ],
+  "variations": [],
+  "categories": [
+   "masala-podi"
+  ],
+  "seller": "thaayanbu",
+  "image": "/images/catalog/2026-08-sambar-podi.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1076,
+  "slug": "kuzhambu-podi",
+  "nameEn": "Curry Powder",
+  "nameTa": "குழம்புத் தூள்",
+  "price": 132.0,
+  "priceRange": null,
+  "packs": [
+   "250 g"
+  ],
+  "variations": [],
+  "categories": [
+   "masala-podi"
+  ],
+  "seller": "thaayanbu",
+  "image": "/images/catalog/2026-08-kuzhambu-podi.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1084,
+  "slug": "rasam-podi",
+  "nameEn": "Rasam Powder",
+  "nameTa": "ரசத் தூள்",
+  "price": 128.0,
+  "priceRange": null,
+  "packs": [
+   "250 g"
+  ],
+  "variations": [],
+  "categories": [
+   "masala-podi"
+  ],
+  "seller": "thaayanbu",
+  "image": "/images/catalog/2026-08-rasam-podi.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1085,
+  "slug": "milagai-podi",
+  "nameEn": "Chilli Powder",
+  "nameTa": "மிளகாய்த் தூள்",
+  "price": 120.0,
+  "priceRange": null,
+  "packs": [
+   "250 g"
+  ],
+  "variations": [],
+  "categories": [
+   "masala-podi"
+  ],
+  "seller": "thaayanbu",
+  "image": "/images/catalog/2026-08-milagai-podi.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1086,
+  "slug": "seekkai-podi",
+  "nameEn": "Shikakai Powder",
+  "nameTa": "சீயக்காய்த் தூள்",
+  "price": 115.0,
+  "priceRange": null,
+  "packs": [
+   "250 g"
+  ],
+  "variations": [],
+  "categories": [
+   "herbal-wellness",
+   "personal-care"
+  ],
+  "seller": "thaayanbu",
+  "image": "/images/catalog/2026-08-seekkai-podi.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1087,
+  "slug": "kuliyal-podi",
+  "nameEn": "Herbal Bath Powder",
+  "nameTa": "மூலிகைக் குளியல் பொடி",
+  "price": 125.0,
+  "priceRange": null,
+  "packs": [
+   "250 g"
+  ],
+  "variations": [],
+  "categories": [
+   "herbal-wellness",
+   "personal-care"
+  ],
+  "seller": "thaayanbu",
+  "image": "/images/catalog/2026-08-kuliyal-podi.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1088,
+  "slug": "panchakara-kudineer",
+  "nameEn": "Panchakara Herbal Drink",
+  "nameTa": "பஞ்சகர குடிநீர்",
+  "price": 145.0,
+  "priceRange": null,
+  "packs": [
+   "250 g"
+  ],
+  "variations": [],
+  "categories": [
+   "health-mixes"
+  ],
+  "seller": "thaayanbu",
+  "image": "/images/catalog/2026-08-panchakara-kudineer.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1089,
+  "slug": "ellu",
+  "nameEn": "Sesame Seeds",
+  "nameTa": "எள்",
+  "price": 138.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "paruppu-pulses"
+  ],
+  "seller": "thaayanbu",
+  "image": "/images/catalog/2026-08-ellu.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1090,
+  "slug": "nallamaattu-nei",
+  "nameEn": "Malamattu Ghee",
+  "nameTa": "மாளமாட்டு நெய்",
+  "price": 685.0,
+  "priceRange": null,
+  "packs": [
+   "500 ml"
+  ],
+  "variations": [],
+  "categories": [
+   "oil-vinegers"
+  ],
+  "seller": "thaayanbu",
+  "image": "/images/catalog/2026-08-mallamaattu-nei.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1463,
+  "slug": "black-kavuni-rice",
+  "nameEn": "Karuppu Kavuni Rice",
+  "nameTa": "கருப்பு கவுனி அரிசி",
+  "price": 245.0,
+  "priceRange": null,
+  "packs": [
+   "1 kg"
+  ],
+  "variations": [],
+  "categories": [
+   "rice-grains"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-09-karuppu-kavuni-rice.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1464,
+  "slug": "mappillai-samba",
+  "nameEn": "Mappillai Samba Rice",
+  "nameTa": "மாப்பிள்ளை சம்பா அரிசி",
+  "price": 195.0,
+  "priceRange": null,
+  "packs": [
+   "1 kg"
+  ],
+  "variations": [],
+  "categories": [
+   "rice-grains"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-09-mappillai-samba-rice-pdf.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1465,
+  "slug": "karunguruvai-rice",
+  "nameEn": "Karunguruvai Rice",
+  "nameTa": "கருங்குறுவை அரிசி",
+  "price": 185.0,
+  "priceRange": null,
+  "packs": [
+   "1 kg"
+  ],
+  "variations": [],
+  "categories": [
+   "rice-grains"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-09-karunguruvai-rice-2.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1466,
+  "slug": "kaatuyanam-rice",
+  "nameEn": "Kattu Yanam Rice",
+  "nameTa": "காட்டு யானம் அரிசி",
+  "price": 195.0,
+  "priceRange": null,
+  "packs": [
+   "1 kg"
+  ],
+  "variations": [],
+  "categories": [
+   "rice-grains"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-09-kattu-yanam-rice.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1467,
+  "slug": "kullakar-rice",
+  "nameEn": "Kuzhakkan / Kullakar Rice",
+  "nameTa": "குழக்கான் / குள்ளக்கார் அரிசி",
+  "price": 185.0,
+  "priceRange": null,
+  "packs": [
+   "1 kg"
+  ],
+  "variations": [],
+  "categories": [
+   "rice-grains"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-09-kuzhakkan-kullakar-rice.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1468,
+  "slug": "poongar-rice",
+  "nameEn": "Poongar Rice",
+  "nameTa": "பூங்கார் அரிசி",
+  "price": 195.0,
+  "priceRange": null,
+  "packs": [
+   "1 kg"
+  ],
+  "variations": [],
+  "categories": [
+   "rice-grains"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-09-poongar-arisi.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1470,
+  "slug": "thooyamalli-rice",
+  "nameEn": "Thuya Malli Rice",
+  "nameTa": "தூய மல்லி அரிசி",
+  "price": 175.0,
+  "priceRange": null,
+  "packs": [
+   "1 kg"
+  ],
+  "variations": [],
+  "categories": [
+   "rice-grains"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-09-thooyamallirice.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1471,
+  "slug": "iluppai-poo-samba-rice",
+  "nameEn": "Iluppai Poo Samba Rice",
+  "nameTa": "இலுப்பைப் பூ சம்பா அரிசி",
+  "price": 215.0,
+  "priceRange": null,
+  "packs": [
+   "1 kg"
+  ],
+  "variations": [],
+  "categories": [
+   "rice-grains"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-09-iluppai-samba-rice.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1472,
+  "slug": "arubathaam-kuruvai-rice",
+  "nameEn": "Arubathaam Kuruvai Rice",
+  "nameTa": "அறுபதாம் குறுவை அரிசி",
+  "price": 185.0,
+  "priceRange": null,
+  "packs": [
+   "1 kg"
+  ],
+  "variations": [],
+  "categories": [
+   "rice-grains"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-09-arubatham-kuruvai-rice.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1473,
+  "slug": "aathur-kichadi-samba-rice",
+  "nameEn": "Aathur Kichadi Samba Rice",
+  "nameTa": "ஆத்தூர் கிச்சடி சம்பா அரிசி",
+  "price": 205.0,
+  "priceRange": null,
+  "packs": [
+   "1 kg"
+  ],
+  "variations": [],
+  "categories": [
+   "rice-grains"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-09-mappillai-samba-rice.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1474,
+  "slug": "kalanamak-rice",
+  "nameEn": "Kalanamak Rice",
+  "nameTa": "காலா நமக் அரிசி",
+  "price": 245.0,
+  "priceRange": null,
+  "packs": [
+   "1 kg"
+  ],
+  "variations": [],
+  "categories": [
+   "rice-grains"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-09-kalanamak-rice.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 1475,
+  "slug": "kallundai-samba-rice",
+  "nameEn": "Kallundai Samba Rice",
+  "nameTa": "கல்லுண்டை சம்பா அரிசி",
+  "price": 195.0,
+  "priceRange": null,
+  "packs": [
+   "1 kg"
+  ],
+  "variations": [],
+  "categories": [
+   "rice-grains"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-09-kallundai-samba-rice-2.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 2269,
+  "slug": "ratha-sali-rice",
+  "nameEn": "Ratha Sali Rice",
+  "nameTa": "ரத்தசாலி அரிசி",
+  "price": 225.0,
+  "priceRange": null,
+  "packs": [
+   "1 kg"
+  ],
+  "variations": [],
+  "categories": [
+   "rice-grains"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-09-ratha-sali-rice.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 2270,
+  "slug": "barley-rice",
+  "nameEn": "Barley Rice",
+  "nameTa": "பார்லி அரிசி / வாற்கோதுமை",
+  "price": 115.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "other-rice"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-09-barley-rice.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 2272,
+  "slug": "kollu-yennai-horse-gram-oil",
+  "nameEn": "Horse Gram Oil",
+  "nameTa": "கொள்ளு எண்ணெய்",
+  "price": 385.0,
+  "priceRange": null,
+  "packs": [
+   "500 ml"
+  ],
+  "variations": [],
+  "categories": [
+   "oil-vinegers"
+  ],
+  "seller": "thaayanbu",
+  "image": "/images/catalog/2026-09-horse-gram-oil.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 2309,
+  "slug": "karuppu-kavuni-aval",
+  "nameEn": "Karuppu Kavuni Aval",
+  "nameTa": "கருப்பு கவுனி அவல்",
+  "price": 185.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "aval-flakes"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-09-karuppu-kavuni-aval.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 2310,
+  "slug": "mappillai-samba-aval",
+  "nameEn": "Mappillai Samba Aval",
+  "nameTa": "மாப்பிள்ளை சம்பா அவல்",
+  "price": 165.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "aval-flakes"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-09-mappillai-samba-aval.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 2311,
+  "slug": "karunguruvai-aval",
+  "nameEn": "Karunguruvai Aval",
+  "nameTa": "கருங்குருவை அவல்",
+  "price": 155.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "aval-flakes"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-09-karunguruvai-aval.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 2312,
+  "slug": "kattu-yanam-aval",
+  "nameEn": "Kattu Yanam Aval",
+  "nameTa": "காட்டுயானம் அவல்",
+  "price": 165.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "aval-flakes"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-09-kattu-yanam-aval.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 2313,
+  "slug": "kuzhakkan-kullakar-aval",
+  "nameEn": "Kuzhakkan / Kullakar Aval",
+  "nameTa": "குழக்கன் / குள்ளக்கார் அவல்",
+  "price": 155.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "aval-flakes"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-09-kuzhakkan-kullakar-aval.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 2314,
+  "slug": "poongar-aval",
+  "nameEn": "Poongar Aval",
+  "nameTa": "பூங்கார் அவல்",
+  "price": 165.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "aval-flakes"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-09-poongar-aval.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 2315,
+  "slug": "ratha-sali-aval",
+  "nameEn": "Ratha Sali Aval",
+  "nameTa": "ரத்த சாலி அவல்",
+  "price": 175.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "aval-flakes"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-09-ratha-sali-aval.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 2316,
+  "slug": "thuya-malli-aval",
+  "nameEn": "Thuya Malli Aval",
+  "nameTa": "தூய மல்லி அவல்",
+  "price": 145.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "aval-flakes"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-09-thuyamalliaval.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 2317,
+  "slug": "bamboo-aval",
+  "nameEn": "Bamboo Aval",
+  "nameTa": "மூங்கில் அவல்",
+  "price": 195.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "aval-flakes"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-09-mungilbambooaval.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 2318,
+  "slug": "kichadi-samba-aval",
+  "nameEn": "Kichadi Samba Aval",
+  "nameTa": "கிச்சடி சம்பா அவல்",
+  "price": 145.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "aval-flakes"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-09-kichadi-samba-aval.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 2319,
+  "slug": "karudan-samba-aval",
+  "nameEn": "Karudan Samba Aval",
+  "nameTa": "கருடன் சம்பா அவல்",
+  "price": 155.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "aval-flakes"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-09-karudan-samba-aval.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 2320,
+  "slug": "kudavaazhai-aval",
+  "nameEn": "Kudavaazhai Aval",
+  "nameTa": "குடவாழை அவல்",
+  "price": 155.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "aval-flakes"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-09-kudavaazhai-aval.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 2366,
+  "slug": "iluppai-poo-samba-aval",
+  "nameEn": "Iluppai Poo Samba Aval",
+  "nameTa": "இலுப்பைப் பூ சம்பா அவல்",
+  "price": 175.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "aval-flakes"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-09-karudan-samba-aval.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 2367,
+  "slug": "arubathaam-kuruvai-aval",
+  "nameEn": "Arubathaam Kuruvai Aval",
+  "nameTa": "அறுபதாம் குறுவை அவல்",
+  "price": 150.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "aval-flakes"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-09-kichadi-samba-aval.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 2368,
+  "slug": "aathur-kichadi-samba-aval",
+  "nameEn": "Aathur Kichadi Samba Aval",
+  "nameTa": "ஆத்தூர் கிச்சடி சம்பா அவல்",
+  "price": 160.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "aval-flakes"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-09-kichadi-samba-aval.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 2369,
+  "slug": "kalanamak-aval",
+  "nameEn": "Kalanamak Aval",
+  "nameTa": "காலா நமக் அவல்",
+  "price": 195.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "aval-flakes"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-09-kudavaazhai-aval.webp",
+  "maxQty": 100,
+  "inStock": true
+ },
+ {
+  "id": 2370,
+  "slug": "kallundai-samba-aval",
+  "nameEn": "Kallundai Samba Aval",
+  "nameTa": "கல்லுண்டை சம்பா அவல்",
+  "price": 165.0,
+  "priceRange": null,
+  "packs": [
+   "500 g"
+  ],
+  "variations": [],
+  "categories": [
+   "aval-flakes"
+  ],
+  "seller": "naadunalam",
+  "image": "/images/catalog/2026-09-karudan-samba-aval.webp",
+  "maxQty": 98,
+  "inStock": true
+ }
+]
